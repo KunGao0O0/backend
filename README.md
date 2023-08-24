@@ -11,9 +11,14 @@ python -m pip install virtualenv
 verntualenv .venv
 ```
 
-Then activate the virtual environment:
+Then activate the virtual environment Microsoft:
 ```
 .venv\Scripts\activate
+```
+
+macOS and Linux:
+```
+source .venv/bin/activate
 ```
 
 ## Install dependencies
